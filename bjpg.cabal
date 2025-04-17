@@ -21,6 +21,7 @@ common warnings
 library
   import:           warnings
   exposed-modules:
+    Blackjack.Action
     Blackjack.Card
     Blackjack.Deck
     Blackjack.Game
