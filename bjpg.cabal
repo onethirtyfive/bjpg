@@ -23,6 +23,7 @@ library
   exposed-modules:
     Blackjack.Action
     Blackjack.Card
+    Blackjack.Category
     Blackjack.Deck
     Blackjack.Game
     Blackjack.Hand
