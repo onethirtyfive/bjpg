@@ -25,6 +25,7 @@ library
     Blackjack.Deck
     Blackjack.Game
     Blackjack.Hand
+    Blackjack.Rules
 
   -- other-modules:
   -- other-extensions:
